@@ -1,4 +1,4 @@
-//Name:			Will Wetzel - 130251255
+//Name:		Will Wetzel - 130251255
 //Program:		Project two - Pizza
 //Module:		CSC1021 - Programming I
 //Description:	This class models a pizza and has calculations for finding its costs and total costs.
@@ -74,20 +74,20 @@ public class Pizza
 	
 	//******************************Get and set methods for other pizzaChoice and pizzaMenu class selections******************************//
 
-    public int getbInput()									//Get base input method for the PizzaChoice class.
+    public int getbInput()							//Get base input method for the PizzaChoice class.
     {
     	return bInput;
     }	
-	public void setbInput(int bInput)							//Set base input method for the pizzaChoice class.
+	public void setbInput(int bInput)					//Set base input method for the pizzaChoice class.
     {	
     	this.bInput = bInput;      	
     }
     
-    public int gettInput()									//Get topping input method for the pizzaChoice class.
+    public int gettInput()							//Get topping input method for the pizzaChoice class.
     {
     	return tInput;
     }	
-	public void settInput(int tInput)							//Get topping input method for the pizzaChoice class.
+	public void settInput(int tInput)					//Get topping input method for the pizzaChoice class.
     {	
     	this.tInput = tInput;      	
     }
